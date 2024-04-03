@@ -1,2 +1,2 @@
-# PontoDigitalCCM
-Atalhos para Ponto digital
+# PontoDigital
+Atalhos para ponto digital seed 
